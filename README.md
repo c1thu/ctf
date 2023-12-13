@@ -1,2 +1,2 @@
 # Welcome budd
-### Here , Here I'll share my writeups
+### Im just a n00b ctf player
