@@ -67,7 +67,7 @@ mapping = {
 
 	
 }
-c = 'YOUR_DNA_CODE_HERE'
+c = 'YOUR_DNA_CODE_HERE' #  test encoded dna code -> ACTTCGTAGTTGCGATTCCCATTGGAATTCTGGTTGCTCGCTTCTTTGAAGTTCCTCTCG
 flag = []
 for x in range(0,len(c), 3):
     piece = c[x:x+3]
